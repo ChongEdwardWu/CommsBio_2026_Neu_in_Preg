@@ -156,4 +156,4 @@ Please refer to the individual scripts for the complete list of `library()` and 
 
 For questions about the code or analyses, please open an issue on this GitHub repository or contact:
 
-- **Chong Wu** – wuchong5@mail.sysu.edu.cn
+- **Chong Wu** – wuchong5@mail(dot)sysu(dot)edu(dot)cn
